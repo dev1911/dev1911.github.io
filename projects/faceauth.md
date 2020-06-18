@@ -13,9 +13,6 @@ labels:
 summary: A logging system based on face recongition technology.
 ---
 
-<div class="ui medium right floated rounded images">
-  <img class="ui image" src="../images/faceauth.jpg">
-</div>
 Created a face recognition pipeline connected with a logging system to mark entries of people walking past a gate. Project made as a part of SIH 2020.  
 
 ## Features  
@@ -34,5 +31,13 @@ The face recognition pipeline consisted of three parts, namely face detection , 
 There are a few more nuances we had to take care of:
 * Use of multi threading to handle multiple video streams and achieve greater output frame rate. 
 * Filtering bounding boxes of faces detected by their area to filter unwanted people who are very far away from the camera. 
-
-
+  
+<hr>
+<h2> Demo</h2>
+<div class="ui big image">
+    <img src="../images/face.gif">
+</div>
+<br>
+<div class="ui big image">
+    <img class="ui big image" src="../images/face1.png">
+</div>

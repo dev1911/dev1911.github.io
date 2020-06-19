@@ -27,6 +27,6 @@ Writeups:
 
 <hr>
 <h3> Here is a sample problem</h3>
-See if you can find the flag. Maybe vignaharta will help !!.
+See if you can find the flag. Maybe vignaharta will help !!. Remember, vignaharta is the key to all problems !!.  
 
 <img class="ui image" src="../images/vignaharta.png">

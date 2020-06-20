@@ -39,4 +39,12 @@ The Technology Stack used in the application is:
 5. Redis is used for showing real time tracking of drones to the frontend.
 
  
-Source: <a href="https://github.com/dev1911/drone_plus_plus"><i class="large github icon"></i>dev1911/drone_plus_plus</a>
+Source: <a href="https://github.com/dev1911/drone_plus_plus"><i class="large github icon"></i>dev1911/drone_plus_plus</a> 
+<br>
+<hr>
+<h2> Demo </h2>
+
+<h3>Tracking an order</h3>
+<div class="ui fluid image">
+    <img src="../images/drone1.gif">
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/life.jpg
+image: images/lifepp/life.jpg
 title: Life++
 permalink: projects/life
 # All dates must be YYYY-MM-DD format!
@@ -38,27 +38,27 @@ Source: <a href="https://github.com/dev1911/life_plus_plus"><i class="large gith
 
 <h3>
 1. Sample Prescription 
-<img class="ui big image" src="../images/prescription1.jpg">
+<img class="ui big image" src="../images/lifepp/prescription1.jpg">
 <br>
 
 2. Prescription image converted to text via OCR.  
-<img class="ui big image" src="../images/life1.png">
+<img class="ui big image" src="../images/lifepp/life1.png">
 <br>
 
 3. On uploading document, contract creation and contract call transactions take place in the blockchain (Ganache blockchain for development purposes). 
-<img class="ui big image" src="../images/life3.png">
+<img class="ui big image" src="../images/lifepp/life3.png">
 <br>
 
 4. The contract creation transaction occurs only if there are no smart contracts existing on the blockchain. 
-<img class="ui big image" src="../images/life5.png">
+<img class="ui big image" src="../images/lifepp/life5.png">
 <br>
 
 5. The contract call transaction contains the hash of the document in its transaction data. 
-<img class="ui big image" src="../images/life4.png">
+<img class="ui big image" src="../images/lifepp/life4.png">
 <br>
 
 6. Whenever user views the document, the hash of the document existing in the database is queried against the blockchain. If the hash is present, it means the document has not been tampered with and the user can view the document. 
-<img class="ui big image" src="../images/life2.png">
+<img class="ui big image" src="../images/lifepp/life2.png">
 <br>
 
 </h3>

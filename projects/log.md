@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/linux.jpg
+image: images/log/linux.jpg
 title: Centralised Log Server
 permalink: projects/centralised-log-server
 # All dates must be YYYY-MM-DD format!

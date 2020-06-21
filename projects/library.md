@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/data_visualization.jpg
+image: images/library/data_visualization.jpg
 title: Data Visualization for library
 permalink: projects/library
 # All dates must be YYYY-MM-DD format!
@@ -31,8 +31,8 @@ Source: <a href="https://github.com/shlokashah/Data_Visualization_In_Java"><i cl
 <hr><br>
 <div class="ui four column  grid" align="center">
     <div class="ui big spaced images" align="center">
-        <img class="ui left image" src="../images/library1.png">
-        <img class="ui center image" src="../images/library2.png">
-        <img class="ui right image" src="../images/library3.png">
+        <img class="ui left image" src="../images/library/library1.png">
+        <img class="ui center image" src="../images/library/library2.png">
+        <img class="ui right image" src="../images/library/library3.png">
     </div>
 </div>

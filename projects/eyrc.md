@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eyrc.jpg
+image: images/eyantra/eyrc.jpg
 title: E-Yantra
 permalink: projects/eyrc
 # All dates must be YYYY-MM-DD format!
@@ -46,11 +46,11 @@ Though my team didn't qualify for the finals, I learnt a lot of new things in a 
 <h2> Examples of some tasks</h2>  
 * Here, an example input image and output image of an arena are shown. Output image has positions of all detected animals and habitats overwritten on it. 
 <div class="ui two columns medium images" align="center">
-    <img class="ui image" src="../images/eyrc1.png">
-    <img class="ui image" src="../images/output1.png">
+    <img class="ui image" src="../images/eyantra/eyrc1.png">
+    <img class="ui image" src="../images/eyantra/output1.png">
 </div>
 
 * Here, another example arena is shown. The task was to find the angle between the two markers using an overhead webcam.
 <div class="ui one columns medium images" align="center"> 
-    <img class="ui medium center image" src="../images/eyrc2.jpeg">
+    <img class="ui medium center image" src="../images/eyantra/eyrc2.jpeg">
 </div> 

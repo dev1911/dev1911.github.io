@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/maze.jpg
+image: images/maze/maze.jpg
 title: Maze generator
 permalink: projects/maze
 # All dates must be YYYY-MM-DD format!
@@ -23,11 +23,17 @@ While playing the first character of your name serves as the marker in the maze.
 Source: <a href="https://github.com/dev1911/Maze-generator"><i class="large github icon"></i>Maze Generator</a>
 
 <hr><br>
-<div class="ui three column grid" align="center">
-    <div class="ui small spaced images" align="center">
-        <img class="ui  left  rounded image" src="../images/maze3.png">
-        <img class="ui  center  rounded image" src="../images/maze2.png">
-        <img class="ui  right rounded image" src="../images/maze1.png">
-    </div>
-</div>
 
+<div align="center">
+    <h3>
+        Easy
+            <img class="ui medium image" src="../images/maze/maze_easy.png">
+        <br>
+        Medium
+            <img class="ui medium image" src="../images/maze/maze_medium.png">
+        <br>
+        Hard
+            <img class="ui medium image" src="../images/maze/maze_hard.png">
+        <br>
+    </h3>
+</div>

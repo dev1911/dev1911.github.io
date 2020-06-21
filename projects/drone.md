@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drone.jpg
+image: images/dronepp/drone.jpg
 title: Drone++
 permalink: projects/drone
 # All dates must be YYYY-MM-DD format!
@@ -46,5 +46,5 @@ Source: <a href="https://github.com/dev1911/drone_plus_plus"><i class="large git
 
 <h3>Tracking an order</h3>
 <div class="ui fluid image">
-    <img src="../images/drone1.gif">
+    <img src="../images/dronepp/drone1.gif">
 </div>

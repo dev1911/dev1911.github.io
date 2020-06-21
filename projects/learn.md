@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/learn.png
+image: images/learnpp/learn.png
 title: Learn++
 permalink: projects/learn
 # All dates must be YYYY-MM-DD format!

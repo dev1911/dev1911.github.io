@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ctf.jpg
+image: images/ctf/ctf.jpg
 title: Capture The Flag
 permalink: projects/ctf
 # All dates must be YYYY-MM-DD format!
@@ -23,10 +23,12 @@ The detailed writeups/walkthroughs of the questions are given in the links below
 Writeups:  
 <a href="https://link.medium.com/wO78TlsMd4"><i class="large medium icon"></i>Walkthrough Part 1</a>
   
-<a href="https://medium.com/@shahdevansh99/spit-capture-the-flag-round-2-walkthrough-252e002d3c8"><i class="large medium icon"></i>Walkthrough Part 2</a>
+<a href="https://medium.com/@shahdevansh99/spit-capture-the-flag-round-2-walkthrough-252e002d3c8"><i class="large medium icon"></i>Walkthrough Part 2</a> 
+
+<a href="https://www.hackerrank.com/contests/spit-capture-the-flag-finals/challenges">Link for final round contest</a>
 
 <hr>
 <h3> Here is a sample problem</h3>
 See if you can find the flag. Maybe vignaharta will help !!. Remember, vignaharta is the key to all problems !!.  
 
-<img class="ui image" src="../images/vignaharta.png">
+<img class="ui image" src="../images/ctf/vignaharta.png">

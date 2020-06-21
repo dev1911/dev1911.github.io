@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/faceauth.jpg
+image: images/faceauth/faceauth.jpg
 title: FaceAuth++
 permalink: projects/facauth
 # All dates must be YYYY-MM-DD format!
@@ -35,9 +35,9 @@ There are a few more nuances we had to take care of:
 <hr>
 <h2> Demo</h2>
 <div class="ui big image">
-    <img src="../images/face.gif">
+    <img src="../images/faceauth/face.gif">
 </div>
 <br>
 <div class="ui big image">
-    <img class="ui big image" src="../images/face1.png">
+    <img class="ui big image" src="../images/faceauth/face1.png">
 </div>

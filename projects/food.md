@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/food.jpg
+image: images/foodhousie/food.jpg
 title: Foodhousie
 permalink: projects/foodhousie
 # All dates must be YYYY-MM-DD format!
@@ -19,36 +19,36 @@ A community themed web application serving as a marketplace for home chefs. It a
 
 <h3>
 1.Customer can see recipes offered by chefs in vicinity.  
-<img class="ui big image" src="../images/food1.png">  
+<img class="ui big image" src="../images/foodhousie/food1.png">  
 <br>  
 2. Once order is placed, chef can see it on the dashboard.
-<img class="ui big image" src="../images/food2.png">
+<img class="ui big image" src="../images/foodhousie/food2.png">
 <br>  
 3. Chef confirms the order.  
-<img class="ui big image" src="../images/food3.png">  
+<img class="ui big image" src="../images/foodhousie/food3.png">  
 <br>
 4. Customer sees the confirmed order and proceeds to pay.  
-<img class="ui big image" src="../images/food4.png">
+<img class="ui big image" src="../images/foodhousie/food4.png">
 <br>  
 5. Once payment is done, the chef can start preparing the dish.
-<img class="ui big image" src="../images/food5.png">
+<img class="ui big image" src="../images/foodhousie/food5.png">
 <br>  
 6. A QR code is generated and sent to the customer. 
-<img class="ui medium image" src="../images/foodqr.png">  
+<img class="ui medium image" src="../images/foodhousie/foodqr.png">  
 <br>
 7. Upon delivery chef can scan the QR code using any QR code scanner to complete the order.  
-<img class="ui medium image" src="../images/foodqr1.jpeg"> 
+<img class="ui medium image" src="../images/foodhousie/foodqr1.jpeg"> 
 </h3>
 <hr><hr>
 <h2>NGO events</h2>
 
 <h3>
 1. People can see various food donation drives.  
-<img class="ui big image" src="../images/food6.png">
+<img class="ui big image" src="../images/foodhousie/food6.png">
 <br>
 2. People can see status of the donation drive and donate accordingly.
-<img class="ui big image" src="../images/food7.png">
+<img class="ui big image" src="../images/foodhousie/food7.png">
 <br>
 3. Home chefs too can participate in donation drives.  
-<img class="ui big image" src="../images/food8.png">
+<img class="ui big image" src="../images/foodhousie/food8.png">
 </h3>

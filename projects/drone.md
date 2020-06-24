@@ -47,4 +47,11 @@ Source: <a href="https://github.com/dev1911/drone_plus_plus"><i class="large git
 <h3>Tracking an order</h3>
 <div class="ui fluid image">
     <img src="../images/dronepp/drone1.gif">
+</div> 
+<br>
+
+<h3> Maintaining state of Kubernetes API objects</h3>  
+<h4>Here a deployment object is deleted using kubectl and the script instantly creates a new deployment object.</h4>
+<div class="ui fluid image">
+    <img src="../images/dronepp/drone2.gif">    
 </div>
